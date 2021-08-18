@@ -1,0 +1,16 @@
+iframe {
+    width: 50% !important;
+    height: auto !important;
+    margin: 0 auto;
+    display: block;
+  }
+
+  h2 {
+    text-align: center;
+    color: #0a0a0a;
+    font-size: 20px;
+  }
+
+  .frame-border {
+    border: 3px solid #EEE;
+  }
